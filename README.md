@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: MONISH R</h3>
-<h3>Register Number:212223220061</h3>
+<h3>Register Number: 212223220061</h3>
 
 
 <h3>AIM:</h3>
@@ -40,7 +40,8 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-## PROGRAM:
+
+## Program:
 ```
 import random
 import time
@@ -237,14 +238,13 @@ if   __name__ == "__main__":
         print("AgentLocation : {0}".format(agent.location)) 
         print("Performance : {0}".format(agent.performance)) 
         time.sleep(3)
-     ```
+```
 
+## Output:
 
-## OUTPUT:
+![Screenshot 2025-04-21 192439](https://github.com/user-attachments/assets/7a6b3b73-3248-403d-b689-6cb9f6ed5672)
 
+## Result:
 
-
-![Screenshot 2025-04-21 192439](https://github.com/user-attachments/assets/65c14811-6502-4b62-9703-44dd57c2622e)
-
-## RESULT:
 Thus, the PEAS description for the given AI problem an AI agent has been created successfully.</p>
+
